@@ -8,7 +8,7 @@
             "name": "Python Debugger: Init Strategy",
             "type": "debugpy",
             "request": "launch",
-            "program": "strategy.py",
+            "program": "main.py",
             "console": "integratedTerminal"
         }
     ]
